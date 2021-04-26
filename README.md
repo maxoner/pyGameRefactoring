@@ -16,4 +16,8 @@ A screensaver that draws a curve on the set anchor points. I have added the abil
 | <kbd>↓</kbd>    | Decrease speed          |
 | <kbd>esc</kbd>  | Quit                    |
 
+**Requirements**
+* python 3.6+
+* pygame
+
 This is homework from course [«ООП и паттерны проектирования»](https://www.coursera.org/learn/oop-patterns-python). 
