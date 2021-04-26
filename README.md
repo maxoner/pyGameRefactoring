@@ -1,5 +1,5 @@
 # pyGameRefactoring
-A screensaver that draws a curve on the set anchor points. I have added the ability to delete anchor points, the ability to create multiple curves and change the speed of each curve
+A screensaver that draws a curve on the set anchor points. I have added the ability to delete anchor points, the ability to create multiple curves and change the speed of each curve.
 ![image](https://user-images.githubusercontent.com/48301704/116069873-93cd2d80-a694-11eb-89fe-6e98ce408e9f.png)
 
 ## Control
